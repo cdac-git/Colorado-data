@@ -1,6 +1,6 @@
-district,Year,Adult,Juvenile,Ad. Wellness,Ad. Recovery
-08,2002,0,1,0,0
-08,2020,0,117,0,0
-08,2021,0,12,0,0
-08,2022,0,139,0,0
-08,2023,0,118,0,0
+district,Year,Adult,Juvenile,Ad. Wellness,Ad. Recovery,NULL
+08,2002,0,1,0,0,0
+08,2020,0,117,0,0,0
+08,2021,0,12,0,0,0
+08,2022,0,139,0,0,0
+08,2023,0,118,0,0,0

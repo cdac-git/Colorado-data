@@ -1,6 +1,6 @@
-district,Year,Adult,Juvenile,Ad. Wellness,Ad. Recovery
-17,2019,0,28,0,0
-17,2020,0,69,0,0
-17,2021,0,55,0,0
-17,2022,1,70,0,0
-17,2023,48,88,0,0
+district,Year,Adult,Juvenile,Ad. Wellness,Ad. Recovery,NULL
+17,2019,0,28,0,0,0
+17,2020,0,69,0,0,0
+17,2021,0,55,0,0,0
+17,2022,1,70,0,0,0
+17,2023,48,88,0,0,0
