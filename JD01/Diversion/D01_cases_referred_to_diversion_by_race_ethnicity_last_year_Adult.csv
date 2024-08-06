@@ -1,7 +1,8 @@
-Diversion Case Type,Race or Ethnicity,No of Cases
-Adult,American Indian,1
-Adult,Asian or Pacific Islander,1
-Adult,Black or African American,5
-Adult,Hispanic,1
-Adult,Other,13
-Adult,White or Caucasian,109
+Diversion Case Type,Race or Ethnicity,Count
+Adult,American Indian,3
+Adult,Asian or Pacific Islander,5
+Adult,Black or African American,37
+Adult,Hispanic,11
+Adult,Native American or Alaska Native,1
+Adult,Other,45
+Adult,White or Caucasian,414
