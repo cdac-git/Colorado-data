@@ -1,12 +1,6 @@
-district,Year,Diversion Case Type,Diversion Case Type Count
-18,2019,Juvenile,1
-18,2020,Juvenile,1
-18,2021,Ad. Recovery,3
-18,2021,Adult,11
-18,2021,Juvenile,31
-18,2022,Ad. Recovery,35
-18,2022,Adult,67
-18,2022,Juvenile,203
-18,2023,Ad. Recovery,48
-18,2023,Adult,119
-18,2023,Juvenile,218
+district,Year,Adult,Juvenile,Ad. Wellness,Ad. Recovery
+18,2019,0,1,0,0
+18,2020,0,1,0,0
+18,2021,11,31,0,3
+18,2022,67,203,0,35
+18,2023,119,218,0,48
