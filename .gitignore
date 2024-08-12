@@ -1,0 +1,11 @@
+!.gitignore
+*.log
+*.db
+.env
+*.pyc 
+*.spss
+notebooks/*
+*.ipynb
+*.xlsx
+*.rdl
+credentials.json
